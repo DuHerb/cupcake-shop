@@ -2,3 +2,9 @@
   color: purple;
   font-style: italic;
 }
+
+.best {
+  font-size: 1.25em;
+  font-family: cursive;
+  color: darkblue;
+}
